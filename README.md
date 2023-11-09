@@ -41,10 +41,6 @@ ACTIVITY DIAGRAM:
 
 ![image](https://github.com/NivethaKumar30/LAB-6-Online-examination-system/assets/119559844/ffc49d44-efd5-4bfe-8b30-a58078b61660)
 
-COLLABORATION DIAGRAM:
-
-![Screenshot 2023-11-09 111724](https://github.com/NivethaKumar30/LAB-6-Online-examination-system/assets/119559844/f8faaded-468c-4aef-9d4a-347235e0d31c)
-
 
 ### RESULT:
 Thus the project to develop Exam Registration system was developed using Star UML
