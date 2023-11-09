@@ -17,6 +17,33 @@ hall tickets for the applicants. After successful generation of hall tickets, th
 the hall ticket to the applicants. The applicants can download the hall tickets finally in the end.
 ### UML DIAGRAMS:
 
+USE CASE DIAGRAM :
+
+![image](https://github.com/NivethaKumar30/LAB-6-Online-examination-system/assets/119559844/c8eb8fc0-a26f-41eb-b244-70debace6509)
+
+CLASS DIAGRAM :
+
+![image](https://github.com/NivethaKumar30/LAB-6-Online-examination-system/assets/119559844/40063f98-6d3b-4894-86e0-52e1ea83a792)
+
+SEQUENCE DIAGRAM:
+
+![image](https://github.com/NivethaKumar30/LAB-6-Online-examination-system/assets/119559844/692d1956-b86e-4f21-b9b0-86e0f089a4be)
+
+COMMUNICATION DIAGRAM:
+
+![image](https://github.com/NivethaKumar30/LAB-6-Online-examination-system/assets/119559844/c321b7dd-46e7-4478-9951-31d4c125f712)
+
+PACKAGE DIAGRAM:
+
+![image](https://github.com/NivethaKumar30/LAB-6-Online-examination-system/assets/119559844/4516ecba-5005-4733-9d24-b5e4faaa963a)
+
+ACTIVITY DIAGRAM:
+
+![image](https://github.com/NivethaKumar30/LAB-6-Online-examination-system/assets/119559844/ffc49d44-efd5-4bfe-8b30-a58078b61660)
+
+COLLABORATION DIAGRAM:
+
+![Screenshot 2023-11-09 111724](https://github.com/NivethaKumar30/LAB-6-Online-examination-system/assets/119559844/f8faaded-468c-4aef-9d4a-347235e0d31c)
 
 
 ### RESULT:
